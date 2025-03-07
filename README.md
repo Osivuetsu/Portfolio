@@ -1,2 +1,2 @@
 # Portfolio
-using Html and css to create a portfolio website
+using Html css  and javascript to create a portfolio website
