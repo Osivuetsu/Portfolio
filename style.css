@@ -348,7 +348,7 @@ nav ul{
     @media screen and (max-width:530px) {
 
         .abt-con img{
-            height: 490px;
+            height: 300px;
             width: 70vw;
             margin-left: 2rem;
         }
