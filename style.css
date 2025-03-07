@@ -394,9 +394,9 @@ nav ul{
         scroll-behavior: smooth;
     }
 
-@media screen and (max-width:530px) {
+@media screen and (max-width:500px) {
     .wid-flex{
-        margin-left: 0;
+        margin-left: 0%;
     }
 }
 
