@@ -47,7 +47,7 @@ newData.forEach(({ num, skill, skillTxt }) => {
 });
 
 
-const scrollStep = 370;
+const scrollStep = 390;
 
 
 document.querySelector('.scrollLeft').addEventListener('click', () => {
